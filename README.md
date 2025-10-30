@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/view/aykut-elmas-dans-ediyor-aykut-elmas-gif-1065879221168001056" width="300"/>
+  <img src="https://media.tenor.com/yv-R6A21l8kAAAAC/aykut-elmas-dans-ediyor-aykut-elmas.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
