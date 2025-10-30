@@ -51,7 +51,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=GrandMAsterMaho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mahmut Can Kurt's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GrandMasterMaho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mahmut Can Kurt's GitHub Stats"/>
   
   <br/>
   
