@@ -2,17 +2,8 @@
   <img src="aykut-elmas.gif" width="300"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://twitter.com/mahmutexe">
-    <img src="https://img.shields.io/badge/Twitter'da%20Bana%20Ulaş-%40mahmutexe-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:is.mahmutcankurt@gmail.com">
-    <img src="https://img.shields.io/badge/Mail%20At%20(Spam%20Atma)-is.mahmutcankurt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
-
 <h1 align="center">
-  Selam! 👋 Ben Mahmut Can.
+  Selam! 👋 Ben Maho
 </h1>
 <h3 align="center">
   Backend Developer @ Global IT
