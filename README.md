@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HzX8pvJLryKafMFGN2/giphy.gif" width="300"/>
+  <div class="tenor-gif-embed" data-postid="1065879221168001056" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/aykut-elmas-dans-ediyor-aykut-elmas-gif-1065879221168001056">Aykut Elmas Dans Ediyor Aykut Elmas GIF</a>from <a href="https://tenor.com/search/aykut+elmas+dans+ediyor-gifs">Aykut Elmas Dans Ediyor GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <div id="badges" align="center">
